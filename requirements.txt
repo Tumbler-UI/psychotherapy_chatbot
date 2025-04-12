@@ -1,4 +1,4 @@
-gunicorn==XX.XX.XX
-flask==XX.XX.XX
-flask-cors==XX.XX.XX
-nltk==XX.XX.XX
+gunicorn==21.2.0
+flask==2.0.3
+flask-cors==3.0.10
+nltk==3.6.7
