@@ -1,0 +1,4 @@
+gunicorn==XX.XX.XX
+flask==XX.XX.XX
+flask-cors==XX.XX.XX
+nltk==XX.XX.XX
